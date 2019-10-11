@@ -1,6 +1,7 @@
 # cool-text-scramble-effect
-A scramble text transition maker. Check out at: https://text-transition.akylus.repl.run
+<p align="center">A scramble text transition maker.</p>
 
-![](transition.gif)
+<p align="center">https://text-transition.akylus.repl.run</p>
+<p align="center"><img src="transition.gif"></p>
 
-Render Speed and Refresh Rate editabe from code.
+<p align="center">Render Speed and Refresh Rate editabe from code.</p>
