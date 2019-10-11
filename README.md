@@ -1,4 +1,4 @@
-# cool-text-scramble-effect
+# Cool Text Scramble Effect
 <p align="center">A scramble text transition maker.</p>
 
 <p align="center">https://text-transition.akylus.repl.run</p>
