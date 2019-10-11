@@ -6,7 +6,6 @@ def clear():
 def findOccurrences(s, ch):
     return [i for i, letter in enumerate(s) if letter == ch]
 
-
 jumbler = "α!вΔǤҒʓ&ʏ@cǪƤ9#∂$ɛғ^ƬƧɢ-&н8*ι-(ʝƃƄƅCƇƞƟƠơ5σ<ρ>ƜѴզ4{ƘĴяƨƲЯЄ2{7}тʋ3}ʌ~ω1/6ϰѲИƖĦ@βƆƵ%ƁƂƋƈDƊ=κ+Ѧ˩0ℓ)м?иƳχƉ#ƗKƙƚƛWƝƌƍƎƏƐƑƒƓƔƕIƢƣPƥƦSsƩƪƫTƭƮƯưƱUYƴZƶƷƸ"
 
 sentence = input()
